@@ -1,0 +1,264 @@
+Beat-by-beat comparison results for record 118e00
+Reference annotator: atr
+     Test annotator: pred
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 1763   31   19    0    0    0    0
+ S |    3   80    1    0    0    0    0
+ V |    0    2   11    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (1910/1910)
+ QRS positive predictivity: 100.00% (1910/1910)
+           VEB sensitivity:  84.62% (11/13)
+ VEB positive predictivity:  35.48% (11/31)
+          SVEB sensitivity:  95.24% (80/84)
+SVEB positive predictivity:  70.80% (80/113)
+     RMS RR interval error:   0.00 ms
+Beat-by-beat comparison results for record 118e06
+Reference annotator: atr
+     Test annotator: pred
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 1807    6    0    0    0    0    0
+ S |    0   84    0    0    0    0    0
+ V |    0    1   12    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (1910/1910)
+ QRS positive predictivity: 100.00% (1910/1910)
+           VEB sensitivity:  92.31% (12/13)
+ VEB positive predictivity: 100.00% (12/12)
+          SVEB sensitivity: 100.00% (84/84)
+SVEB positive predictivity:  92.31% (84/91)
+     RMS RR interval error:   0.00 ms
+Beat-by-beat comparison results for record 118e12
+Reference annotator: atr
+     Test annotator: pred
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 1810    3    0    0    0    0    0
+ S |    0   84    0    0    0    0    0
+ V |    0    0   13    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (1910/1910)
+ QRS positive predictivity: 100.00% (1910/1910)
+           VEB sensitivity: 100.00% (13/13)
+ VEB positive predictivity: 100.00% (13/13)
+          SVEB sensitivity: 100.00% (84/84)
+SVEB positive predictivity:  96.55% (84/87)
+     RMS RR interval error:   0.00 ms
+Beat-by-beat comparison results for record 118e18
+Reference annotator: atr
+     Test annotator: pred
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 1813    0    0    0    0    0    0
+ S |    0   84    0    0    0    0    0
+ V |    0    0   13    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (1910/1910)
+ QRS positive predictivity: 100.00% (1910/1910)
+           VEB sensitivity: 100.00% (13/13)
+ VEB positive predictivity: 100.00% (13/13)
+          SVEB sensitivity: 100.00% (84/84)
+SVEB positive predictivity: 100.00% (84/84)
+     RMS RR interval error:   0.00 ms
+Beat-by-beat comparison results for record 118e24
+Reference annotator: atr
+     Test annotator: pred
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 1813    0    0    0    0    0    0
+ S |    0   84    0    0    0    0    0
+ V |    0    0   13    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (1910/1910)
+ QRS positive predictivity: 100.00% (1910/1910)
+           VEB sensitivity: 100.00% (13/13)
+ VEB positive predictivity: 100.00% (13/13)
+          SVEB sensitivity: 100.00% (84/84)
+SVEB positive predictivity: 100.00% (84/84)
+     RMS RR interval error:   0.00 ms
+Beat-by-beat comparison results for record 118e_6
+Reference annotator: atr
+     Test annotator: pred
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 1605   42  166    0    0    0    0
+ S |   24   55    5    0    0    0    0
+ V |    5    1    7    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (1910/1910)
+ QRS positive predictivity: 100.00% (1910/1910)
+           VEB sensitivity:  53.85% (7/13)
+ VEB positive predictivity:   3.93% (7/178)
+          SVEB sensitivity:  65.48% (55/84)
+SVEB positive predictivity:  56.12% (55/98)
+     RMS RR interval error:   0.00 ms
+Beat-by-beat comparison results for record 119e00
+Reference annotator: atr
+     Test annotator: pred
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 1248    6   38    0    0    0    0
+ S |    0    0    0    0    0    0    0
+ V |    2    0  362    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (1656/1656)
+ QRS positive predictivity: 100.00% (1656/1656)
+           VEB sensitivity:  99.45% (362/364)
+ VEB positive predictivity:  90.50% (362/400)
+          SVEB sensitivity:      -  (0/0)
+SVEB positive predictivity:   0.00% (0/6)
+     RMS RR interval error:   0.00 ms
+Beat-by-beat comparison results for record 119e06
+Reference annotator: atr
+     Test annotator: pred
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 1285    2    5    0    0    0    0
+ S |    0    0    0    0    0    0    0
+ V |    0    0  364    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (1656/1656)
+ QRS positive predictivity: 100.00% (1656/1656)
+           VEB sensitivity: 100.00% (364/364)
+ VEB positive predictivity:  98.64% (364/369)
+          SVEB sensitivity:      -  (0/0)
+SVEB positive predictivity:   0.00% (0/2)
+     RMS RR interval error:   0.00 ms
+Beat-by-beat comparison results for record 119e12
+Reference annotator: atr
+     Test annotator: pred
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 1291    0    1    0    0    0    0
+ S |    0    0    0    0    0    0    0
+ V |    0    0  364    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (1656/1656)
+ QRS positive predictivity: 100.00% (1656/1656)
+           VEB sensitivity: 100.00% (364/364)
+ VEB positive predictivity:  99.73% (364/365)
+          SVEB sensitivity:      -  (0/0)
+SVEB positive predictivity:      -  (0/0)
+     RMS RR interval error:   0.00 ms
+Beat-by-beat comparison results for record 119e18
+Reference annotator: atr
+     Test annotator: pred
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 1292    0    0    0    0    0    0
+ S |    0    0    0    0    0    0    0
+ V |    0    0  364    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (1656/1656)
+ QRS positive predictivity: 100.00% (1656/1656)
+           VEB sensitivity: 100.00% (364/364)
+ VEB positive predictivity: 100.00% (364/364)
+          SVEB sensitivity:      -  (0/0)
+SVEB positive predictivity:      -  (0/0)
+     RMS RR interval error:   0.00 ms
+Beat-by-beat comparison results for record 119e24
+Reference annotator: atr
+     Test annotator: pred
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 1292    0    0    0    0    0    0
+ S |    0    0    0    0    0    0    0
+ V |    0    0  364    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (1656/1656)
+ QRS positive predictivity: 100.00% (1656/1656)
+           VEB sensitivity: 100.00% (364/364)
+ VEB positive predictivity: 100.00% (364/364)
+          SVEB sensitivity:      -  (0/0)
+SVEB positive predictivity:      -  (0/0)
+     RMS RR interval error:   0.00 ms
+Beat-by-beat comparison results for record 119e_6
+Reference annotator: atr
+     Test annotator: pred
+
+               Algorithm
+        n    s    v    f    q    o    x
+   ____________________________________
+ N | 1133   15  144    0    0    0    0
+ S |    0    0    0    0    0    0    0
+ V |   23    1  340    0    0    0    0
+ F |    0    0    0    0    0    0    0
+ Q |    0    0    0    0    0    0    0
+ O |    0    0    0    0    0
+ X |    0    0    0    0    0
+
+           QRS sensitivity: 100.00% (1656/1656)
+ QRS positive predictivity: 100.00% (1656/1656)
+           VEB sensitivity:  93.41% (340/364)
+ VEB positive predictivity:  70.25% (340/484)
+          SVEB sensitivity:      -  (0/0)
+SVEB positive predictivity:   0.00% (0/16)
+     RMS RR interval error:   0.00 ms

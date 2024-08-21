@@ -1,0 +1,5 @@
+PROJECT_DIR = ''
+MITDB_DIR = 'mitdb/'
+RESULT_DIR = 'result1'
+project_path = 'mitdb/'
+TEMP_DIR = 'temp4/'
